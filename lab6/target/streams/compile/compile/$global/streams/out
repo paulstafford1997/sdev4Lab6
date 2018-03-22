@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/paul/Desktop/lab6/app/controllers/ShoppingCtrl.java:172:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable shopOrder[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.ShoppingCtrl[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(shopOrder.render(getCurrentUser(), orderList));[0m
